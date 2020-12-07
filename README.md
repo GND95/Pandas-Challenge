@@ -24,3 +24,9 @@
 
 **Data Frame for breaking down spending activity per individual player to analyze top spenders among the player base:**<br/>
 <br/> ![8](/Images/8.png)
+
+**Data Frame for analyzing which items are the most popular in terms of the number of players that purchased the item:**<br/>
+<br/> ![9](/Images/9.png)
+
+**Data Frame for analyzing which items generate the most profit:**<br/>
+<br/> ![10](/Images/10.png)
